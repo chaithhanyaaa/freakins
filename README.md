@@ -6,7 +6,7 @@ This is a modern fashion e-commerce frontend built using **React + Vite**.
 
 ## 🔗 Live Demo
 
-👉 [Click here to visit the deployed site on Vercel](https://freakins-2vk8xyz88-chaithanyas-projects-fdceffb2.vercel.app)
+👉 [Click here to visit the deployed site on Vercel](https://frekins-clone-5es09r0dt-chaithanyas-projects-fdceffb2.vercel.app/)
 
 ---
 
