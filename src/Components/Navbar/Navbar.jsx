@@ -24,7 +24,7 @@ const Navbar = () => {
           {menu === "home" && <hr />}
         </li>
         <li onClick={() => setMenu("men")}>
-          <Link to="/mens" className="nav-link">Men</Link>
+          <Link to="/men" className="nav-link">Men</Link>
           {menu === "men" && <hr />}
         </li>
         <li onClick={() => setMenu("women")}>

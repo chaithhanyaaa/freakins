@@ -3,6 +3,8 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://chaithhanyaaa.github.io/freakins",
+
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -10,12 +12,13 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
+
   "dependencies": {
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
-    "react-router-dom": "^7.6.3",
-    "router-dom": "^3.0.3"
+    "react-router-dom": "^7.6.3"
   },
+
   "devDependencies": {
     "@eslint/js": "^9.29.0",
     "@types/react": "^19.1.8",
@@ -24,8 +27,8 @@
     "eslint": "^9.29.0",
     "eslint-plugin-react-hooks": "^5.2.0",
     "eslint-plugin-react-refresh": "^0.4.20",
-    "gh-pages": "^6.3.0",
     "globals": "^16.2.0",
-    "vite": "^7.0.0"
+    "vite": "^7.0.0",
+    "gh-pages": "^6.3.0"
   }
 }
