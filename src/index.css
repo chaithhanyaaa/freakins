@@ -1,0 +1,22 @@
+/* Reset default browser spacing */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Make sure body takes full width without scroll */
+html, body {
+  width: 100%;
+  overflow-x: hidden;
+}
+
+/* Font and style settings */
+body {
+  font-family: "Nunito Sans", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+  /* ✅ Add this line to ensure no unexpected scroll: */
+  overflow-x: hidden;
+}
